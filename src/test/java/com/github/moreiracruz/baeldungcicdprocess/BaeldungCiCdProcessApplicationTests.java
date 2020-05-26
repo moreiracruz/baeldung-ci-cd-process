@@ -8,6 +8,7 @@ class BaeldungCiCdProcessApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
